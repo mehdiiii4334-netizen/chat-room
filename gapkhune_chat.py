@@ -37,7 +37,7 @@ def safe_room_name(value: str) -> str:
 
 
 def main(page: ft.Page):
-    page.title = "گپ‌خونه | چت آنلاین"
+    page.title = "گپ‌خونه مهدی | چت آنلاین"
     page.theme_mode = ft.ThemeMode.LIGHT
     page.padding = 0
     page.bgcolor = "#F3F6FB"
