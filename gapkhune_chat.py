@@ -236,7 +236,7 @@ def main(page: ft.Page):
                     alignment=ft.MainAxisAlignment.SPACE_BETWEEN,
                 ),
                 bgcolor="#2563EB",
-                padding=ft.padding.symmetric(horizontal=16, vertical=12),
+                padding=12,
             ),
             ft.Container(
                 content=messages_column,
